@@ -14,10 +14,6 @@ export default function Home() {
     <div className="container">
       <header>
         <h1 className="product-title">Matcha Cookie Brownie</h1>
-        <button id="theme-toggle" aria-label="Toggle dark mode">
-          {/* <i data-feather="moon" /> */}
-          solih
-        </button>
       </header>
       <section className="product-overview">
         <img
