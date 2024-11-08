@@ -22,8 +22,6 @@ body.dark-mode {
 }
 
 
-
-
 /* Global styles */
 body {
   font-family: var(--font-main);
@@ -206,6 +204,9 @@ header {
   font-family: var(--font-main);
   line-height: 20px; 
 }
+
+
+
 .footer-copyright{
   font-family: var(--font-main);
   line-height: 20px;
